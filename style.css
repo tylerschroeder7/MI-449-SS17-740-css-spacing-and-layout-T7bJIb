@@ -1,0 +1,65 @@
+body {
+  text-align: center;
+  margin: 0 auto;
+  font-family: sans-serif;
+}
+
+header {
+  width: 100%;
+}
+
+.skills {
+  display: flex;
+  justify-content: space-around;
+  margin: 100px;
+  padding: 50px;
+}
+
+#web {
+  max-width: 250px;
+}
+
+#threed {
+  max-width: 250px;
+}
+
+#gamedev {
+  max-width: 250px;
+}
+
+.work {
+  display: flex;
+  justify-content: space-around;
+  margin: 100px;
+  padding: 50px;
+}
+
+#fcp {
+  max-width: 250px;
+}
+
+#ymca {
+  max-width: 250px;
+}
+
+.interests {
+  display: flex;
+  justify-content: space-around;
+  margin: 100px;
+  padding: 50px;
+}
+
+#gameprod {
+  flex-grow: 1;
+  max-width: 250px;
+}
+
+#sports {
+  flex-grow: 1;
+  max-width: 250px;
+}
+
+#sales {
+  flex-grow: 1;
+  max-width: 250px;
+}
