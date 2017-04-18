@@ -43,30 +43,6 @@ header {
   padding: 50px;
 }
 
-#web {
-  max-width: 250px;
-  border-style: solid;
-  border-color: black;
-  border-radius: 25px;
-  background-color: #3e4240;
-}
-
-#threed {
-  max-width: 250px;
-  border-style: solid;
-  border-color: black;
-  border-radius: 25px;
-  background-color: #3e4240;
-}
-
-#gamedev {
-  max-width: 250px;
-  border-style: solid;
-  border-color: black;
-  border-radius: 25px;
-  background-color: #3e4240;
-}
-
 .work {
   display: flex;
   justify-content: space-around;
@@ -74,15 +50,7 @@ header {
   padding: 50px;
 }
 
-#fcp {
-  max-width: 250px;
-  border-style: solid;
-  border-color: black;
-  border-radius: 25px;
-  background-color: #3e4240;
-}
-
-#ymca {
+.content-box {
   max-width: 250px;
   border-style: solid;
   border-color: black;
@@ -99,27 +67,15 @@ header {
 
 #gameprod {
   flex-grow: 1;
-  max-width: 250px;
-  border-style: solid;
-  border-color: black;
-  border-radius: 25px;
-  background-color: #3e4240;
+  min-width: 250px;
 }
 
 #sports {
   flex-grow: 1;
-  max-width: 250px;
-  border-style: solid;
-  border-color: black;
-  border-radius: 25px;
-  background-color: #3e4240;
+  min-width: 250px;
 }
 
 #sales {
   flex-grow: 1;
-  max-width: 250px;
-  border-style: solid;
-  border-color: black;
-  border-radius: 25px;
-  background-color: #3e4240;
+  min-width: 250px;
 }
